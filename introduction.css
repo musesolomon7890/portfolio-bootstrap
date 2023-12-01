@@ -1,0 +1,15 @@
+
+.container{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: large;
+   text-align: center;
+   margin-top: 4%;
+   color: rgb(44, 44, 68);
+}
+.container img{
+   max-width: 90%;
+   border-radius: 20px;
+}
+#intro{
+    background-color: gray;
+}
